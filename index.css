@@ -230,15 +230,17 @@
 #manca{
     display: none;
     height: 150vh;
+    widht:100%;
 }
 #regi{
     display: none;
     height: 150vh;
+    widht:100%;
 }
 #apip{
     display: none;
     height: 150vh;
-      
+    widht:100%;
 }
 #bungkusisinya{
     display: flex;
@@ -263,4 +265,5 @@
 #niknik{
     color: white;
     text-align: center;
+
 }
